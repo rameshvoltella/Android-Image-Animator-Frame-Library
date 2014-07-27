@@ -4,6 +4,10 @@ Android-Image-Animator-Frame-Library
 This library handles the mutiple images to Animate frame by frame over and over again .This Library make frame animation easer.
 The example of Frame animation is avilable on  [Android-Image-Animator-Frame-Sample](https://github.com/rameshvoltella/Android-Image-Animator-Frame-Sample).  
 
+
+## VIDEO ([SAMPLE](https://www.youtube.com/watch?v=HPQI7QaTs44&feature=youtu.be))   
+
+
 Some Screenshots are given below
 <p><b>Screen </b></p>
 <p><a href="https://raw.githubusercontent.com/rameshvoltella/Android-Image-Animator-Frame-Library/master/ImageFrameAnimationLibrary/Screenshot_2014-07-27-16-15-32.png" target="_blank"><img src="https://raw.githubusercontent.com/rameshvoltella/Android-Image-Animator-Frame-Library/master/ImageFrameAnimationLibrary/Screenshot_2014-07-27-16-15-32.png" alt="Screenshot one" style="max-width:100%;"></a></p>
