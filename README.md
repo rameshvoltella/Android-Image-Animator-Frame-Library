@@ -22,9 +22,8 @@ Image-Animator-Frame: how to use
     ```xml
        <com.imageframeanimation.FrameImageAnimator
         android:id="@+id/animater_IV"
-       android:layout_width="wrap_content"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        
         android:src="@drawable/frame_000" />
 ```
 
