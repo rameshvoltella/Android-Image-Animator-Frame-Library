@@ -53,7 +53,7 @@ Image-Animator-Frame: how to use
 	       // Stop The Animation
 		     mAnimatorControl.stop();
 	
-
+   ```
 	
 	
 	
